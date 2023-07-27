@@ -1,0 +1,9 @@
+const PI = 3.14;
+
+var and let both allow for reassignment, but only var allows redeclaring, which also allows for hoisting instead of using block scoping like let does.
+
+var allows reassignment and redeclaring, but const allows for neither.
+
+let allows for reassignment while const does not.
+
+Hoisting is declaring a variable after it has been used. 
